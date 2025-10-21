@@ -1,0 +1,26 @@
+{
+  "headline": "Constellation de talents",
+  "description": "Chaque compétence est un astre connecté au réseau créatif d'A Website. Cliquez pour explorer leurs orbites et synergies.",
+  "nodes": [
+    { "id": "react", "label": "React", "category": "framework" },
+    { "id": "typescript", "label": "TypeScript", "category": "lang" },
+    { "id": "three", "label": "Three.js", "category": "3d" },
+    { "id": "glsl", "label": "GLSL", "category": "3d" },
+    { "id": "aws", "label": "AWS", "category": "cloud" },
+    { "id": "framer", "label": "Framer Motion", "category": "motion" },
+    { "id": "gsap", "label": "GSAP", "category": "motion" },
+    { "id": "webgl", "label": "WebGL", "category": "3d" },
+    { "id": "accessibility", "label": "Accessibilité", "category": "craft" },
+    { "id": "seo", "label": "SEO", "category": "craft" }
+  ],
+  "links": [
+    { "source": "react", "target": "typescript" },
+    { "source": "react", "target": "framer" },
+    { "source": "three", "target": "glsl" },
+    { "source": "three", "target": "gsap" },
+    { "source": "three", "target": "webgl" },
+    { "source": "aws", "target": "seo" },
+    { "source": "accessibility", "target": "seo" },
+    { "source": "typescript", "target": "gsap" }
+  ]
+}

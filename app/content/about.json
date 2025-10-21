@@ -1,0 +1,18 @@
+{
+  "title": "Naviguer dans la nébuleuse de l'expérience",
+  "description": "A Website sculpte des expériences numériques éthérées pour les marques visionnaires. Nous fusionnons design émotionnel, technologie temps-réel et narration spatiale pour créer des vitrines qui brillent comme des constellations uniques.",
+  "pillars": [
+    {
+      "title": "Design Atmosphérique",
+      "body": "Interfaces glassmorphiques, typographie cinétique, palettes néon-célestes et animations synchronisées au scroll."
+    },
+    {
+      "title": "Interaction Orbitale",
+      "body": "Scènes 3D WebGL réactives, transitions fluides, micro-interactions magnétiques et carrousels spatiaux immersifs."
+    },
+    {
+      "title": "Performance Hyperluminique",
+      "body": "Optimisations FPS, rendu adaptatif, lazy loading intelligent et accessibilité soignée pour chaque voyageur."
+    }
+  ]
+}
