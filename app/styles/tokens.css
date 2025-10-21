@@ -1,0 +1,16 @@
+:root {
+  --bg: #050510;
+  --panel: rgba(18, 20, 45, 0.6);
+  --accent: #8b5cf6;
+  --accent-2: #22d3ee;
+  --text: #eaf0ff;
+  --glow: rgba(139, 92, 246, 0.4);
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #0a0b1a;
+    --panel: rgba(255, 255, 255, 0.08);
+    --text: #f5f7ff;
+  }
+}

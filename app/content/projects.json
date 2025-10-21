@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lumina",
+    "title": "Lumina Resonance",
+    "description": "Installation immersive mêlant projection volumétrique et narration interactive responsive aux gestes du public.",
+    "tech": ["Three.js", "WebGPU", "GSAP"],
+    "role": "Direction Créative & Développement",
+    "link": "https://example.com/lumina"
+  },
+  {
+    "id": "zenith",
+    "title": "Zenith Aerial",
+    "description": "Plateforme de lancement de drones autonomes avec télémetrie 3D temps réel et UI néon tactile.",
+    "tech": ["Next.js", "WebSockets", "AWS"],
+    "role": "UI Engineering",
+    "link": "https://example.com/zenith"
+  },
+  {
+    "id": "aurora",
+    "title": "Aurora Bloom",
+    "description": "Expérience e-commerce haute couture avec constellations de produits et parcours narratif personnalisé.",
+    "tech": ["React", "Three.js", "Headless CMS"],
+    "role": "Lead Frontend",
+    "link": "https://example.com/aurora"
+  }
+]
